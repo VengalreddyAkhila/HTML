@@ -13,6 +13,7 @@ body{
     align-content: center;
     background:tomato;
     font-weight: bold;
+    padding:10px ;
     margin-bottom: 20px;
 }
 form{
@@ -39,4 +40,9 @@ input{
 button{
     width:70%;
     margin:0 auto;
+}
+error-output{
+    font-size: 12px;
+    font-style: italic;
+    color:red;
 }
